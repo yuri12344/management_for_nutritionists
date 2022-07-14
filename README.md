@@ -1,4 +1,7 @@
+Video instruction: https://youtu.be/RStzu_zHBPw
+
 How to use
+
 
 With Python Installed, create a virtual enviroment, with the following command
 
